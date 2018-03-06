@@ -1,0 +1,1 @@
+This contains solution to Algorithmic Heights section from Rosalind.info
